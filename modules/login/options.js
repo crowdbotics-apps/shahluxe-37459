@@ -27,13 +27,13 @@ SignInButtonText/SignUpButtonText: These two options control your button text.
 
 export default {
   LOGO_URL:
-    "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/cb-icon.png",
+    "https://retailer.shahluxe.com/assets/images/logo_inner.png",
   BACKGROUND_URL:
-    "https://crowdbotics-slack-dev.s3.amazonaws.com/media/project_component_resources/halfbg.png",
+    "https://shahluxe.com/general_images/homeimg/carizza-bg.png",
   HOME_SCREEN_NAME: "Home Screen",
   validateEmail: "^[^\\s]+([.-]?\\w+)*@\\w+([.-]?\\w+)*(.\\w{2,3})+$",
   SignInNavText: "Sign In",
-  SignUpNavText: "Sign Up",
+ // SignUpNavText: "Sign Up",
   SignInButtonText: "Login",
-  SignUpButtonText: "Sign Up"
+ // SignUpButtonText: "Sign Up"
 };
